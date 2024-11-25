@@ -21,6 +21,8 @@ Testing the webserver.
 
 PROGRAM:
 
+simplewebserver1.html
+
 <!DOCTYPE html>
 <head>
     <title>LAPTOP CONFIGURATION</title>
@@ -74,7 +76,7 @@ PROGRAM:
 </body>
 
 
-simplewebserver1.html
+
 class myhandler(BaseHTTPRequestHandler):
     def do_GET(self):
         print("request received")
