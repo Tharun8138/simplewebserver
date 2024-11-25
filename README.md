@@ -17,13 +17,10 @@ Step 4:
 Serving the HTML pages.
 
 Step 5:
-Testing the webserver.
-
-PROGRAM:
+Testing the webserver
 
 
-
-
+CODE:
 
 
 <!DOCTYPE html>
